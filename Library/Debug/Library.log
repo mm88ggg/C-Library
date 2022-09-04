@@ -1,0 +1,129 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.c
+c:\users\windows\source\repos\library\library\main.c(170): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(170): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(174): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(174): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(178): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(178): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(182): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(182): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(193): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(193): warning C4024: “MessageBoxA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(304): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(304): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(305): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(305): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(306): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(306): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(307): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(307): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(308): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(308): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(309): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(309): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(443): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(443): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(444): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(444): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(445): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(445): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(446): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(446): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(447): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(447): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(448): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(448): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(449): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(449): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(450): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(450): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(451): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(451): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(452): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(452): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(453): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(453): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(454): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(454): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(455): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(455): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(456): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(456): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(457): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(457): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(518): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(518): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(519): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(519): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(695): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(695): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(696): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(696): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(697): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(697): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(698): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(698): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(699): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(699): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(700): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(700): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(701): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(701): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(702): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(702): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(703): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(703): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(704): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(704): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(705): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(705): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(706): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(706): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(707): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(707): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(708): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(708): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(709): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(709): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(710): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(710): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(711): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(711): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(712): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(712): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(713): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(713): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(906): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(906): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(907): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(907): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(908): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(908): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(909): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(909): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(910): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(910): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(911): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(911): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(912): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(912): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(913): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(913): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(914): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(914): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(915): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(915): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(916): error C2065: “hLabName”: 未声明的标识符
+c:\users\windows\source\repos\library\library\main.c(916): warning C4047: “函数”:“HWND”与“int”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(916): warning C4024: “SendMessageA”: 形参和实参 1 的类型不同
+c:\users\windows\source\repos\library\library\main.c(916): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(916): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(917): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(917): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(918): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(918): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(919): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(919): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(920): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(920): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同

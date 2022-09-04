@@ -1,0 +1,276 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Book.c
+c:\users\windows\source\repos\library\library\book.c(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\book.c(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\book.c(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\book.c(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\book.c(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  File.c
+c:\users\windows\source\repos\library\library\file.c(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\windows\source\repos\library\library\file.c(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\windows\source\repos\library\library\file.c(62): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(123): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\windows\source\repos\library\library\file.c(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\windows\source\repos\library\library\file.c(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(162): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(166): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\windows\source\repos\library\library\file.c(176): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\windows\source\repos\library\library\file.c(218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\windows\source\repos\library\library\file.c(254): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(281): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(283): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(285): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(287): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(289): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(291): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\windows\source\repos\library\library\file.c(347): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(351): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\windows\source\repos\library\library\file.c(377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(379): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\file.c(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\windows\source\repos\library\library\file.c(381): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  User.c
+c:\users\windows\source\repos\library\library\user.c(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\user.c(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\user.c(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\user.c(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\user.c(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\windows\source\repos\library\library\user.c(115): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(496): note: 参见“gmtime”的声明
+c:\users\windows\source\repos\library\library\user.c(200): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(496): note: 参见“gmtime”的声明
+c:\users\windows\source\repos\library\library\user.c(203): warning C4101: “booked”: 未引用的局部变量
+c:\users\windows\source\repos\library\library\user.c(242): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(496): note: 参见“gmtime”的声明
+c:\users\windows\source\repos\library\library\user.c(277): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\windows\source\repos\library\library\user.c(278): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\windows\source\repos\library\library\user.c(279): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\windows\source\repos\library\library\user.c(296): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(496): note: 参见“gmtime”的声明
+  main.c
+c:\users\windows\source\repos\library\library\main.c(185): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(185): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(189): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(189): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(193): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(193): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(197): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(197): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(208): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(208): warning C4024: “MessageBoxA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(322): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(322): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(323): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(323): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(324): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(324): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(325): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(325): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(326): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(326): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(327): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(327): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(484): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(484): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(485): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(485): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(486): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(486): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(487): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(487): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(488): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(488): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(489): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(489): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(490): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(490): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(491): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(491): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(492): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(492): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(493): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(493): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(494): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(494): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(495): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(495): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(496): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(496): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(497): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(497): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(498): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(498): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(568): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(568): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(569): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(569): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(751): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(751): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(752): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(752): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(753): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(753): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(754): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(754): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(755): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(755): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(756): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(756): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(757): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(757): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(758): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(758): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(759): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(759): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(760): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(760): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(761): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(761): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(762): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(762): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(763): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(763): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(764): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(764): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(765): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(765): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(766): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(766): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(767): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(767): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(768): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(768): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(769): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(769): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(770): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(770): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(772): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(772): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(773): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(773): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(774): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(774): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(775): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(775): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(887): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\windows\source\repos\library\library\main.c(888): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\windows\source\repos\library\library\main.c(889): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\windows\source\repos\library\library\main.c(1031): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1031): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1032): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1032): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1033): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1033): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1034): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1034): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1035): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1035): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1036): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1036): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1037): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1037): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1038): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1038): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1039): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1039): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1040): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1040): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1042): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1042): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1043): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1043): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1044): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1044): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1045): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1045): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1058): warning C4090: “=”: 不同的“const”限定符
+c:\users\windows\source\repos\library\library\main.c(1128): warning C4133: “函数”: 从“User *”到“const char *”的类型不兼容
+c:\users\windows\source\repos\library\library\main.c(1225): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1225): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1226): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1226): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1227): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1227): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1228): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1228): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1229): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1229): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1230): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1230): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1231): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1231): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1232): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1232): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1233): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1233): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1234): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1234): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1235): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1235): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1236): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1236): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1237): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1237): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1238): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1238): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1239): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1239): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1240): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1240): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1241): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1241): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1242): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1242): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1243): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1243): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1245): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1245): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1246): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1246): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1247): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1247): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1248): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\windows\source\repos\library\library\main.c(1248): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+c:\users\windows\source\repos\library\library\main.c(1314): warning C4133: “函数”: 从“User *”到“const char *”的类型不兼容
+c:\users\windows\source\repos\library\library\main.c(1320): warning C4133: “函数”: 从“User *”到“const char *”的类型不兼容
+c:\users\windows\source\repos\library\library\main.c(1326): warning C4133: “函数”: 从“User *”到“const char *”的类型不兼容
+c:\users\windows\source\repos\library\library\main.c(1333): warning C4133: “函数”: 从“User *”到“const char *”的类型不兼容
+  正在生成代码
+  7 of 55 functions (12.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Library.vcxproj -> C:\Users\Windows\source\repos\Library\Release\Library.exe
